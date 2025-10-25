@@ -1,0 +1,45 @@
+# =========================
+# Compiled files
+# =========================
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# =========================
+# Python cache / compiled
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Editor / IDE specific
+# =========================
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (PyCharm, CLion)
+.idea/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs and temporary files
+# =========================
+*.log
+*.tmp
+*.swp
