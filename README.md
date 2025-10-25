@@ -46,7 +46,7 @@ for algorithmic training.
 
 ## 📊 Progress Tracker
 
-**Problems Solved** : 1
+**Problems Solved** : 4
 
 -------------------------------------------------------------------------------
 
